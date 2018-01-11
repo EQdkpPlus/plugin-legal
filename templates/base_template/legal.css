@@ -1,0 +1,24 @@
+div.legal-cookie-eu-hint{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 600;
+    border-radius: 0;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    margin-bottom: 0px;
+    align-items: center;
+    text-align: center;
+}
+
+div.legal-cookie-eu-hint i.fa-info-circle {
+   display: none;	
+}
+
+div.legal-cookie-eu-hint i.fa-times {	
+   margin-right: 20px;
+   font-size: 20px;
+}
+
