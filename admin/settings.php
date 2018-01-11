@@ -156,7 +156,7 @@ class legalSettings extends page_generic
 	
     // -- EQDKP ---------------------------------------------------------------
     $this->core->set_vars(array(
-      'page_title'    => $this->user->lang('legal').' '.$this->user->lang('settings'),
+      'page_title'    => $this->user->lang('legal').' - '.$this->user->lang('settings'),
       'template_path' => $this->pm->get_data('legal', 'template_path'),
       'template_file' => 'admin/settings.html',
     		'page_path'			=> [
