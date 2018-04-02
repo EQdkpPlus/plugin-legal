@@ -28,7 +28,7 @@ if (!defined('EQDKP_INC')){
   +--------------------------------------------------------------------------*/
 class legal extends plugin_generic {
 
-	public $version				= '1.0.0';
+	public $version				= '1.0.1';
 	public $build				= '';
 	public $copyright			= 'GodMod';
 
@@ -53,11 +53,11 @@ class legal extends plugin_generic {
 			'long_description'		=> $this->user->lang('legal_long_desc'),
 			'homepage'			=> EQDKP_PROJECT_URL,
 			'manuallink'			=> false,
-			'plus_version'			=> '2.3',
+			'plus_version'			=> '2.2',
 		));
 
 		$this->add_dependency(array(
-			'plus_version'      => '2.3'
+			'plus_version'      => '2.2'
 		));
 
 		$this->add_permission('a', 'settings',		'N', $this->user->lang('menu_settings'),		array(2,3));

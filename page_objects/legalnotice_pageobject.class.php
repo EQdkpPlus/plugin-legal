@@ -86,6 +86,7 @@ class legalnotice_pageobject extends pageobject {
 		if($this->config->get('main_title')){
 			$main_title	= $this->config->get('main_title');
 		}else {
+			$pt_prefix		= $this->user->lang('title_prefix');
 			$main_title = sprintf($pt_prefix, $this->config->get('guildtag'), $dkp_name);
 		}
 
