@@ -333,19 +333,25 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>The applicable data protection provisions of PayPal may be retrieved under https://www.paypal.com/us/webapps/mpp/ua/privacy-full.</p>
 
-<h3>20. Legal basis for the processing </h3>
+<h3>20. Data protection provisions about the use of Gravatar</h3>
+<p>On this website, user can show profile pictures using Gravatar. The operating company of Gravatar is Automattic, Inc. 132 Hawthorne Street San Francisco, CA 94107.
+The used Email-address is transfered in a secure way to Gravatar to fetch an associated profile picture.</p>
+<p>When showing a Gravatar profile picture, Gravatar may save the IP address of the user. Gravatar\'s data protection provisions, available at https://en.gravatar.com/site/privacy, provide information about the collection, processing and use of personal data by Gravatar.</p>
+
+
+<h3>21. Legal basis for the processing </h3>
 <p>Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR.
 In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR.
 Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR).
 </p>
 
-<h3>21. The legitimate interests pursued by the controller or by a third party</h3>
+<h3>22. The legitimate interests pursued by the controller or by a third party</h3>
 <p>Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our business in favor of the well-being of all our employees and the shareholders.</p>
 
-<h3>22. Period for which the personal data will be stored</h3>
+<h3>23. Period for which the personal data will be stored</h3>
 <p>The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.</p>
 
-<h3>23. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data </h3>
+<h3>24. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data </h3>
 <p>We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner).
 
 Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded.
@@ -353,7 +359,7 @@ Sometimes it may be necessary to conclude a contract that the data subject provi
 Before personal data is provided by the data subject, the data subject must contact our Data Protection Officer. Our Data Protection Officer clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
 </p>
 
-<h3>24. Existence of automated decision-making</h3>
+<h3>25. Existence of automated decision-making</h3>
 <p>As a responsible company, we do not use automatic decision-making or profiling.</p>
 
 <p><em>This Privacy Policy has been generated by the Privacy Policy Generator of the <a href="https://dg-datenschutz.de/services/external-data-protection-officer/?lang=en" rel="nofollow">External Data Protection Officer</a> from DGD Deutsche Gesellschaft für Datenschutz GmbH, which has been developed in cooperation with <a href="https://www.wbs-law.de/" rel="nofollow">WILDE BEUGER SOLMECKE | Lawyers</a> and the RC GmbH.</em></p>
