@@ -113,43 +113,27 @@ class legal_v1_english extends gen_class {
 
 <p>The data controller shall, at any time, provide information upon request to each data subject as to what personal data are stored about the data subject. In addition, the data controller shall correct or erase personal data at the request or indication of the data subject, insofar as there are no statutory storage obligations. A Data Protection Officer particularly designated in this data protection declaration, as well as the entirety of the controller’s employees are available to the data subject in this respect as contact persons.</p>
 
-<h3>6. Subscription to our newsletters</h3>
-<p>On the website of {PAGENAME}, users are given the opportunity to subscribe to our enterprise\'s newsletter. The input mask used for this purpose determines what personal data are transmitted, as well as when the newsletter is ordered from the controller.</p>
-
-<p>{PAGENAME} informs its customers and business partners regularly by means of a newsletter about enterprise offers. The enterprise\'s newsletter may only be received by the data subject if (1) the data subject has a valid e-mail address and (2) the data subject registers for the newsletter shipping. A confirmation e-mail will be sent to the e-mail address registered by a data subject for the first time for newsletter shipping, for legal reasons, in the double opt-in procedure. This confirmation e-mail is used to prove whether the owner of the e-mail address as the data subject is authorized to receive the newsletter.
-
-</p>
-
-<p>During the registration for the newsletter, we also store the IP address of the computer system assigned by the Internet service provider (ISP) and used by the data subject at the time of the registration, as well as the date and time of the registration. The collection of this data is necessary in order to understand the (possible) misuse of the e-mail address of a data subject at a later date, and it therefore serves the aim of the legal protection of the controller.</p>
-
-<p>The personal data collected as part of a registration for the newsletter will only be used to send our newsletter. In addition, subscribers to the newsletter may be informed by e-mail, as long as this is necessary for the operation of the newsletter service or a registration in question, as this could be the case in the event of modifications to the newsletter offer, or in the event of a change in technical circumstances. There will be no transfer of personal data collected by the newsletter service to third parties. The subscription to our newsletter may be terminated by the data subject at any time. The consent to the storage of personal data, which the data subject has given for shipping the newsletter, may be revoked at any time. For the purpose of revocation of consent, a corresponding link is found in each newsletter. It is also possible to unsubscribe from the newsletter at any time directly on the website of the controller, or to communicate this to the controller in a different way.</p>
-
-<h3>7. Newsletter-Tracking</h3>
-<p>The newsletter of {PAGENAME} contains so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, {PAGENAME} may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by data subjects.</p>
-
-<p>Such personal data collected in the tracking pixels contained in the newsletters are stored and analyzed by the controller in order to optimize the shipping of the newsletter, as well as to adapt the content of future newsletters even better to the interests of the data subject. These personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of the double-opt-in procedure. After a revocation, these personal data will be deleted by the controller. {PAGENAME} automatically regards a withdrawal from the receipt of the newsletter as a revocation.</p>
-
-<h3>8. Contact possibility via the website </h3>
+<h3>6. Contact possibility via the website </h3>
 <p>The website of {PAGENAME} contains information that enables a quick electronic contact to our enterprise, as well as direct communication with us, which also includes a general address of the so-called electronic mail (e-mail address). If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject are automatically stored. Such personal data transmitted on a voluntary basis by a data subject to the data controller are stored for the purpose of processing or contacting the data subject. There is no transfer of this personal data to third parties.</p>
 
-<h3>9. Comments function in the blog on the website</h3>
+<h3>7. Comments function in the blog on the website</h3>
 <p>{PAGENAME} offers users the possibility to leave individual comments on individual blog contributions on a blog, which is on the website of the controller. A blog is a web-based, publicly-accessible portal, through which one or more people called bloggers or web-bloggers may post articles or write down thoughts in so-called blogposts. Blogposts may usually be commented by third parties.</p>
 
 <p>If a data subject leaves a comment on the blog published on this website, the comments made by the data subject are also stored and published, as well as information on the date of the commentary and on the user\'s (pseudonym) chosen by the data subject. In addition, the IP address assigned by the Internet service provider (ISP) to the data subject is also logged. This storage of the IP address takes place for security reasons, and in case the data subject violates the rights of third parties, or posts illegal content through a given comment. The storage of these personal data is, therefore, in the own interest of the data controller, so that he can exculpate in the event of an infringement. This collected personal data will not be passed to third parties, unless such a transfer is required by law or serves the aim of the defense of the data controller.</p>
 
-<h3>10. Subscription to comments in the blog on the website</h3>
+<h3>8. Subscription to comments in the blog on the website</h3>
 <p>
 The comments made in the blog of {PAGENAME} may be subscribed to by third parties. In particular, there is the possibility that a commenter subscribes to the comments following his comments on a particular blog post.
 </p>
 
 <p>If a data subject decides to subscribe to the option, the controller will send an automatic confirmation e-mail to check the double opt-in procedure as to whether the owner of the specified e-mail address decided in favor of this option. The option to subscribe to comments may be terminated at any time.</p>
 
-<h3>11. Routine erasure and blocking of personal data</h3>
+<h3>9. Routine erasure and blocking of personal data</h3>
 <p>The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to.</p>
 
 <p>If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.</p>
 
-<h3>12. Rights of the data subject</h3>
+<h3>10. Rights of the data subject</h3>
 <ul style="list-style: none;">
 <li><h3>a) Right of confirmation</h3>
 <p>Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact our Data Protection Officer or another employee of the controller.</p>
@@ -240,11 +224,11 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 </li>
 </ul>
-<h3>13. Data protection provisions about the application and use of Google Maps</h3>
+<h3>11. Data protection provisions about the application and use of Google Maps</h3>
 <p>This website makes use of Google Maps to show maps and directions for travel. Google Maps is operated by  Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. With the use of this website, you automatically accept  the collection, processing and use of data that is collected automatically or is  entered by yourself by Google, its representatives or third-party suppliers.</p>
 <p>The conditions of use for Google Maps can be found at: <a href="http://www.google.com/intl/gb/help/terms_maps.html">Google Maps Terms of Service</a></p>
 <p>More detailed information can be found in the data protection center of google.com: <a href="http://www.google.com/intl/gb/policies/privacy/">Transparency and choice</a>, <a href="http://www.google.com/intl/gb/policies/privacy/">Privacy Policy</a></p>
-<h3>14. Data protection provisions about the application and use of Facebook</h3>
+<h3>12. Data protection provisions about the application and use of Facebook</h3>
 <p>On this website, the controller has integrated components of the enterprise Facebook. Facebook is a social network.</p>
 
 <p>A social network is a place for social meetings on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space. A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information. Facebook allows social network users to include the creation of private profiles, upload photos, and network through friend requests.</p>
@@ -259,7 +243,7 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>The data protection guideline published by Facebook, which is available at https://facebook.com/about/privacy/, provides information about the collection, processing and use of personal data by Facebook. In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject. In addition, different configuration options are made available to allow the elimination of data transmission to Facebook, e.g. the Facebook blocker of the provider Webgraph, which may be obtained under http://webgraph.com/resources/facebookblocker/. These applications may be used by the data subject to eliminate a data transmission to Facebook.</p>
 
-<h3>15. Data protection provisions about the application and use of Google+</h3>
+<h3>13. Data protection provisions about the application and use of Google+</h3>
 <p>On this website, the controller has integrated the Google+ button as a component. Google+ is a so-called social network. A social network is a social meeting place on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space. A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information. Google+ allows users of the social network to include the creation of private profiles, upload photos and network through friend requests.</p>
 
 <p>The operating company of Google+ is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.</p>
@@ -276,7 +260,7 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>Further information and the data protection provisions of Google may be retrieved under https://www.google.com/intl/en/policies/privacy/. More references from Google about the Google+ 1 button may be obtained under https://developers.google.com/+/web/buttons-policy.</p>
 
-<h3>16. Data protection provisions about the application and use of Instagram</h3>
+<h3>14. Data protection provisions about the application and use of Instagram</h3>
 <p>On this website, the controller has integrated components of the service Instagram. Instagram is a service that may be qualified as an audiovisual platform, which allows users to share photos and videos, as well as disseminate such data in other social networks.</p>
 
 <p>The operating company of the services offered by Instagram is Instagram LLC, 1 Hacker Way, Building 14 First Floor, Menlo Park, CA, UNITED STATES.</p>
@@ -289,7 +273,7 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>Further information and the applicable data protection provisions of Instagram may be retrieved under https://help.instagram.com/155833707900388 and https://www.instagram.com/about/legal/privacy/.</p>
 
-<h3>17. Data protection provisions about the application and use of Twitter</h3>
+<h3>15. Data protection provisions about the application and use of Twitter</h3>
 <p>On this website, the controller has integrated components of Twitter. Twitter is a multilingual, publicly-accessible microblogging service on which users may publish and spread so-called ‘tweets,’ e.g. short messages, which are limited to 140 characters. These short messages are available for everyone, including those who are not logged on to Twitter. The tweets are also displayed to so-called followers of the respective user. Followers are other Twitter users who follow a user\'s tweets. Furthermore, Twitter allows you to address a wide audience via hashtags, links or retweets.</p>
 
 <p>The operating company of Twitter is Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, UNITED STATES.</p>
@@ -302,7 +286,7 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>The applicable data protection provisions of Twitter may be accessed under https://twitter.com/privacy?lang=en.</p>
 
-<h3>18. Data protection provisions about the application and use of YouTube</h3>
+<h3>16. Data protection provisions about the application and use of YouTube</h3>
 <p>On this website, the controller has integrated components of YouTube. YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them. YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal.
 </p>
 
@@ -316,7 +300,7 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>YouTube\'s data protection provisions, available at https://www.google.com/intl/en/policies/privacy/, provide information about the collection, processing and use of personal data by YouTube and Google.</p>
 
-<h3>19. Payment Method: Data protection provisions about the use of PayPal as a payment processor</h3>
+<h3>17. Payment Method: Data protection provisions about the use of PayPal as a payment processor</h3>
 <p>On this website, the controller has integrated components of PayPal. PayPal is an online payment service provider. Payments are processed via so-called PayPal accounts, which represent virtual private or business accounts. PayPal is also able to process virtual payments through credit cards when a user does not have a PayPal account. A PayPal account is managed via an e-mail address, which is why there are no classic account numbers. PayPal makes it possible to trigger online payments to third parties or to receive payments. PayPal also accepts trustee functions and offers buyer protection services.</p>
 
 <p>The European operating company of PayPal is PayPal (Europe) S.à.r.l. & Cie. S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg.</p>
@@ -333,11 +317,19 @@ The comments made in the blog of {PAGENAME} may be subscribed to by third partie
 
 <p>The applicable data protection provisions of PayPal may be retrieved under https://www.paypal.com/us/webapps/mpp/ua/privacy-full.</p>
 
-<h3>20. Data protection provisions about the use of Gravatar</h3>
+<h3>18. Data protection provisions about the use of Gravatar</h3>
 <p>On this website, user can show profile pictures using Gravatar. The operating company of Gravatar is Automattic, Inc. 132 Hawthorne Street San Francisco, CA 94107.
 The used Email-address is transfered in a secure way to Gravatar to fetch an associated profile picture.</p>
 <p>When showing a Gravatar profile picture, Gravatar may save the IP address of the user. Gravatar\'s data protection provisions, available at https://en.gravatar.com/site/privacy, provide information about the collection, processing and use of personal data by Gravatar.</p>
 
+<h3>19. Usage of Google reCAPTCHA</h3>
+We use the reCAPTCHA service provided by Google Inc. (Google), 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA, to protect your submissions via internet submission forms on this site. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within member states of the European Union or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of this service. The IP address provided by reCaptcha from your browser shall not be merged with any other data from Google.
+This data collection is subject to the data protection regulations of Google (Google Inc.). For more information about Google\'s privacy policy, please visit: https://www.google.com/intl/en/policies/privacy/
+By using the reCAPTCHA service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+<h3>20. Usage of Discord</h3>
+<p>On this website, user can show profile pictures using Discord. The operating company of Discord is Discord Inc., 1901 S Bascom Ave. Suite 1180, Campbell, CA 95080, USA.</p>
+<p>When showing a Discord profile picture, Discord may save the IP address of the user. Discord\'s data protection provisions, available at https://discordapp.com/privacy, provide information about the collection, processing and use of personal data by Discord.</p>
 
 <h3>21. Legal basis for the processing </h3>
 <p>Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR.

@@ -107,39 +107,25 @@ class legal_v1_german extends gen_class {
 
 <p>Der für die Verarbeitung Verantwortliche erteilt jeder betroffenen Person jederzeit auf Anfrage Auskunft darüber, welche personenbezogenen Daten über die betroffene Person gespeichert sind. Ferner berichtigt oder löscht der für die Verarbeitung Verantwortliche personenbezogene Daten auf Wunsch oder Hinweis der betroffenen Person, soweit dem keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Ein in dieser Datenschutzerklärung namentlich benannter Datenschutzbeauftragter und die Gesamtheit der Mitarbeiter des für die Verarbeitung Verantwortlichen stehen der betroffenen Person in diesem Zusammenhang als Ansprechpartner zur Verfügung.</p>
 
-<h3>6. Abonnement unseres Newsletters</h3>
-<p>Auf der Internetseite von {PAGENAME} wird den Benutzern die Möglichkeit eingeräumt, den Newsletter unseres Unternehmens zu abonnieren. Welche personenbezogenen Daten bei der Bestellung des Newsletters an den für die Verarbeitung Verantwortlichen übermittelt werden, ergibt sich aus der hierzu verwendeten Eingabemaske.</p>
-
-<p>das Team informiert ihre Kunden und Geschäftspartner in regelmäßigen Abständen im Wege eines Newsletters über Angebote des Unternehmens. Der Newsletter unseres Unternehmens kann von der betroffenen Person grundsätzlich nur dann empfangen werden, wenn (1) die betroffene Person über eine gültige E-Mail-Adresse verfügt und (2) die betroffene Person sich für den Newsletterversand registriert. An die von einer betroffenen Person erstmalig für den Newsletterversand eingetragene E-Mail-Adresse wird aus rechtlichen Gründen eine Bestätigungsmail im Double-Opt-In-Verfahren versendet. Diese Bestätigungsmail dient der Überprüfung, ob der Inhaber der E-Mail-Adresse als betroffene Person den Empfang des Newsletters autorisiert hat.</p>
-
-<p>Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung. Die Erhebung dieser Daten ist erforderlich, um den(möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb der rechtlichen Absicherung des für die Verarbeitung Verantwortlichen.</p>
-
-<p>Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschließlich zum Versand unseres Newsletters verwendet. Ferner könnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies für den Betrieb des Newsletter-Dienstes oder eine diesbezügliche Registrierung erforderlich ist, wie dies im Falle von Änderungen am Newsletterangebot oder bei der Veränderung der technischen Gegebenheiten der Fall sein könnte. Es erfolgt keine Weitergabe der im Rahmen des Newsletter-Dienstes erhobenen personenbezogenen Daten an Dritte. Das Abonnement unseres Newsletters kann durch die betroffene Person jederzeit gekündigt werden. Die Einwilligung in die Speicherung personenbezogener Daten, die die betroffene Person uns für den Newsletterversand erteilt hat, kann jederzeit widerrufen werden. Zum Zwecke des Widerrufs der Einwilligung findet sich in jedem Newsletter ein entsprechender Link. Ferner besteht die Möglichkeit, sich jederzeit auch direkt auf der Internetseite des für die Verarbeitung Verantwortlichen vom Newsletterversand abzumelden oder dies dem für die Verarbeitung Verantwortlichen auf andere Weise mitzuteilen.</p>
-
-<h3>7. Newsletter-Tracking</h3>
-<p>Die Newsletter von {PAGENAME} enthalten sogenannte Zählpixel. Ein Zählpixel ist eine Miniaturgrafik, die in solche E-Mails eingebettet wird, welche im HTML-Format versendet werden, um eine Logdatei-Aufzeichnung und eine Logdatei-Analyse zu ermöglichen. Dadurch kann eine statistische Auswertung des Erfolges oder Misserfolges von Online-Marketing-Kampagnen durchgeführt werden. Anhand des eingebetteten Zählpixels kann das Team erkennen, ob und wann eine E-Mail von einer betroffenen Person geöffnet wurde und welche in der E-Mail befindlichen Links von der betroffenen Person aufgerufen wurden.</p>
-
-<p>Solche über die in den Newslettern enthaltenen Zählpixel erhobenen personenbezogenen Daten, werden von dem für die Verarbeitung Verantwortlichen gespeichert und ausgewertet, um den Newsletterversand zu optimieren und den Inhalt zukünftiger Newsletter noch besser den Interessen der betroffenen Person anzupassen. Diese personenbezogenen Daten werden nicht an Dritte weitergegeben. Betroffene Personen sind jederzeit berechtigt, die diesbezügliche gesonderte, über das Double-Opt-In-Verfahren abgegebene Einwilligungserklärung zu widerrufen. Nach einem Widerruf werden diese personenbezogenen Daten von dem für die Verarbeitung Verantwortlichen gelöscht. Eine Abmeldung vom Erhalt des Newsletters deutet das Team automatisch als Widerruf.</p>
-
-<h3>8. Kontaktmöglichkeit über die Internetseite</h3>
+<h3>6. Kontaktmöglichkeit über die Internetseite</h3>
 <p>Die Internetseite von {PAGENAME} enthält aufgrund von gesetzlichen Vorschriften Angaben, die eine schnelle elektronische Kontaktaufnahme zu unserem Unternehmen sowie eine unmittelbare Kommunikation mit uns ermöglichen, was ebenfalls eine allgemeine Adresse der sogenannten elektronischen Post (E-Mail-Adresse) umfasst. Sofern eine betroffene Person per E-Mail oder über ein Kontaktformular den Kontakt mit dem für die Verarbeitung Verantwortlichen aufnimmt, werden die von der betroffenen Person übermittelten personenbezogenen Daten automatisch gespeichert. Solche auf freiwilliger Basis von einer betroffenen Person an den für die Verarbeitung Verantwortlichen übermittelten personenbezogenen Daten werden für Zwecke der Bearbeitung oder der Kontaktaufnahme zur betroffenen Person gespeichert. Es erfolgt keine Weitergabe dieser personenbezogenen Daten an Dritte.</p>
 
-<h3>9. Kommentarfunktion im Blog auf der Internetseite</h3>
+<h3>7. Kommentarfunktion im Blog auf der Internetseite</h3>
 <p>das Team bietet den Nutzern auf einem Blog, der sich auf der Internetseite des für die Verarbeitung Verantwortlichen befindet, die Möglichkeit, individuelle Kommentare zu einzelnen Blog-Beiträgen zu hinterlassen. Ein Blog ist ein auf einer Internetseite geführtes, in der Regel öffentlich einsehbares Portal, in welchem eine oder mehrere Personen, die Blogger oder Web-Blogger genannt werden, Artikel posten oder Gedanken in sogenannten Blogposts niederschreiben können. Die Blogposts können in der Regel von Dritten kommentiert werden.</p>
 
 <p>Hinterlässt eine betroffene Person einen Kommentar in dem auf dieser Internetseite veröffentlichten Blog, werden neben den von der betroffenen Person hinterlassenen Kommentaren auch Angaben zum Zeitpunkt der Kommentareingabe sowie zu dem von der betroffenen Person gewählten Nutzernamen (Pseudonym) gespeichert und veröffentlicht. Ferner wird die vom Internet-Service-Provider (ISP) der betroffenen Person vergebene IP-Adresse mitprotokolliert. Diese Speicherung der IP-Adresse erfolgt aus Sicherheitsgründen und für den Fall, dass die betroffene Person durch einen abgegebenen Kommentar die Rechte Dritter verletzt oder rechtswidrige Inhalte postet. Die Speicherung dieser personenbezogenen Daten erfolgt daher im eigenen Interesse des für die Verarbeitung Verantwortlichen, damit sich dieser im Falle einer Rechtsverletzung gegebenenfalls exkulpieren könnte. Es erfolgt keine Weitergabe dieser erhobenen personenbezogenen Daten an Dritte, sofern eine solche Weitergabe nicht gesetzlich vorgeschrieben ist oder der Rechtsverteidigung des für die Verarbeitung Verantwortlichen dient.</p>
 
-<h3>10. Abonnement von Kommentaren im Blog auf der Internetseite</h3>
+<h3>8. Abonnement von Kommentaren im Blog auf der Internetseite</h3>
 <p>Die im Blog von {PAGENAME} abgegebenen Kommentare können grundsätzlich von Dritten abonniert werden. Insbesondere besteht die Möglichkeit, dass ein Kommentator die seinem Kommentar nachfolgenden Kommentare zu einem bestimmten Blog-Beitrag abonniert.</p>
 
 <p>Sofern sich eine betroffene Person für die Option entscheidet, Kommentare zu abonnieren, versendet der für die Verarbeitung Verantwortliche eine automatische Bestätigungsmail, um im Double-Opt-In-Verfahren zu überprüfen, ob sich wirklich der Inhaber der angegebenen E-Mail-Adresse für diese Option entschieden hat. Die Option zum Abonnement von Kommentaren kann jederzeit beendet werden.</p>
 
-<h3>11. Routinemäßige Löschung und Sperrung von personenbezogenen Daten</h3>
+<h3>9. Routinemäßige Löschung und Sperrung von personenbezogenen Daten</h3>
 <p>Der für die Verarbeitung Verantwortliche verarbeitet und speichert personenbezogene Daten der betroffenen Person nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der für die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde.</p>
 
 <p>Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- und Verordnungsgeber oder einem anderen zuständigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.</p>
 
-<h3>12. Rechte der betroffenen Person</h3>
+<h3>10. Rechte der betroffenen Person</h3>
 <ul style="list-style:none;">
 <li><h3>a)    Recht auf Bestätigung</h3>
 <p>Jede betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber eingeräumte Recht, von dem für die Verarbeitung Verantwortlichen eine Bestätigung darüber zu verlangen, ob sie betreffende personenbezogene Daten verarbeitet werden. Möchte eine betroffene Person dieses Bestätigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an unseren Datenschutzbeauftragten oder einen anderen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.</p>
@@ -230,12 +216,12 @@ class legal_v1_german extends gen_class {
 
 </li>
 </ul>
-<h3>13. Datenschutzbestimmungen zu Einsatz und Verwendung von Google Maps</h3>
+<h3>11. Datenschutzbestimmungen zu Einsatz und Verwendung von Google Maps</h3>
 
 <p>Diese Website benutzt Google Maps. Google Maps wird von Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA betrieben. Durch die Nutzung dieser Website erklären Sie sich mit der Erfassung, Bearbeitung sowie der Nutzung der automatisch erhobenen sowie der von Ihnen eingegeben Daten durch Google, einer seiner Vertreter, oder Drittanbieter einverstanden.</p>
 <p>Die Nutzungsbedingungen für Google Maps finden Sie unter&nbsp;<a target="_blank" href="http://www.google.com/intl/de_de/help/terms_maps.html">Nutzungsbedingungen für Google Maps</a>. Ausführliche Details finden Sie im Datenschutz-Center von google.de:&nbsp;<a target="_blank" href="http://www.google.de/intl/de/privacy/">Transparenz und Wahlmöglichkeiten</a>&nbsp;sowie&nbsp;<a target="_blank" href="http://www.google.de/intl/de/privacy/privacy-policy.html">Datenschutzbestimmungen</a>.</p>
 
-<h3>14. Datenschutzbestimmungen zu Einsatz und Verwendung von Facebook</h3>
+<h3>12. Datenschutzbestimmungen zu Einsatz und Verwendung von Facebook</h3>
 <p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten des Unternehmens Facebook integriert. Facebook ist ein soziales Netzwerk.</p>
 
 <p>Ein soziales Netzwerk ist ein im Internet betriebener sozialer Treffpunkt, eine Online-Gemeinschaft, die es den Nutzern in der Regel ermöglicht, untereinander zu kommunizieren und im virtuellen Raum zu interagieren. Ein soziales Netzwerk kann als Plattform zum Austausch von Meinungen und Erfahrungen dienen oder ermöglicht es der Internetgemeinschaft, persönliche oder unternehmensbezogene Informationen bereitzustellen. Facebook ermöglicht den Nutzern des sozialen Netzwerkes unter anderem die Erstellung von privaten Profilen, den Upload von Fotos und eine Vernetzung über Freundschaftsanfragen.</p>
@@ -250,7 +236,7 @@ class legal_v1_german extends gen_class {
 
 <p>Die von Facebook veröffentlichte Datenrichtlinie, die unter https://de-de.facebook.com/about/privacy/ abrufbar ist, gibt Aufschluss über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten durch Facebook. Ferner wird dort erläutert, welche Einstellungsmöglichkeiten Facebook zum Schutz der Privatsphäre der betroffenen Person bietet. Zudem sind unterschiedliche Applikationen erhältlich, die es ermöglichen, eine Datenübermittlung an Facebook zu unterdrücken, beispielsweise der Facebook-Blocker des Anbieters Webgraph, der unter http://webgraph.com/resources/facebookblocker/ beschafft werden kann. Solche Applikationen können durch die betroffene Person genutzt werden, um eine Datenübermittlung an Facebook zu unterdrücken.</p>
 
-<h3>15. Datenschutzbestimmungen zu Einsatz und Verwendung von Google+</h3>
+<h3>13. Datenschutzbestimmungen zu Einsatz und Verwendung von Google+</h3>
 <p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite als Komponente die Google+ Schaltfläche integriert. Google+ ist ein sogenanntes soziales Netzwerk. Ein soziales Netzwerk ist ein im Internet betriebener sozialer Treffpunkt, eine Online-Gemeinschaft, die es den Nutzern in der Regel ermöglicht, untereinander zu kommunizieren und im virtuellen Raum zu interagieren. Ein soziales Netzwerk kann als Plattform zum Austausch von Meinungen und Erfahrungen dienen oder ermöglicht es der Internetgemeinschaft, persönliche oder unternehmensbezogene Informationen bereitzustellen. Google+ ermöglicht den Nutzern des sozialen Netzwerkes unter anderem die Erstellung von privaten Profilen, den Upload von Fotos und eine Vernetzung über Freundschaftsanfragen.</p>
 
 <p>Betreibergesellschaft von Google+ ist die Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.</p>
@@ -267,7 +253,7 @@ class legal_v1_german extends gen_class {
 
 <p>Weitere Informationen und die geltenden Datenschutzbestimmungen von Google können unter https://www.google.de/intl/de/policies/privacy/ abgerufen werden. Weitere Hinweise von Google zur Google+1-Schaltfläche können unter https://developers.google.com/+/web/buttons-policy abgerufen werden.</p>
 
-<h3>16. Datenschutzbestimmungen zu Einsatz und Verwendung von Instagram</h3>
+<h3>14. Datenschutzbestimmungen zu Einsatz und Verwendung von Instagram</h3>
 <p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten des Dienstes Instagram integriert. Instagram ist ein Dienst, der als audiovisuelle Plattform zu qualifizieren ist und den Nutzern das Teilen von Fotos und Videos und zudem eine Weiterverbreitung solcher Daten in anderen sozialen Netzwerken ermöglicht.</p>
 
 <p>Betreibergesellschaft der Dienste von Instagram ist die Instagram LLC, 1 Hacker Way, Building 14 First Floor, Menlo Park, CA, USA.</p>
@@ -280,7 +266,7 @@ class legal_v1_german extends gen_class {
 
 <p>Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram können unter https://help.instagram.com/155833707900388 und https://www.instagram.com/about/legal/privacy/ abgerufen werden.</p>
 
-<h3>17. Datenschutzbestimmungen zu Einsatz und Verwendung von Twitter</h3>
+<h3>15. Datenschutzbestimmungen zu Einsatz und Verwendung von Twitter</h3>
 <p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten von Twitter integriert. Twitter ist ein multilingualer öffentlich zugänglicher Mikroblogging-Dienst, auf welchem die Nutzer sogenannte Tweets, also Kurznachrichten, die auf 140 Zeichen begrenzt sind, veröffentlichen und verbreiten können. Diese Kurznachrichten sind für jedermann, also auch für nicht bei Twitter angemeldete Personen abrufbar. Die Tweets werden aber auch den sogenannten Followern des jeweiligen Nutzers angezeigt. Follower sind andere Twitter-Nutzer, die den Tweets eines Nutzers folgen. Ferner ermöglicht Twitter über Hashtags, Verlinkungen oder Retweets die Ansprache eines breiten Publikums.</p>
 
 <p>Betreibergesellschaft von Twitter ist die Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.</p>
@@ -293,7 +279,7 @@ class legal_v1_german extends gen_class {
 
 <p>Die geltenden Datenschutzbestimmungen von Twitter sind unter https://twitter.com/privacy?lang=de abrufbar.</p>
 
-<h3>18. Datenschutzbestimmungen zu Einsatz und Verwendung von YouTube</h3>
+<h3>16. Datenschutzbestimmungen zu Einsatz und Verwendung von YouTube</h3>
 <p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten von YouTube integriert. YouTube ist ein Internet-Videoportal, dass Video-Publishern das kostenlose Einstellen von Videoclips und anderen Nutzern die ebenfalls kostenfreie Betrachtung, Bewertung und Kommentierung dieser ermöglicht. YouTube gestattet die Publikation aller Arten von Videos, weshalb sowohl komplette Film- und Fernsehsendungen, aber auch Musikvideos, Trailer oder von Nutzern selbst angefertigte Videos über das Internetportal abrufbar sind.</p>
 
 <p>Betreibergesellschaft von YouTube ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Die YouTube, LLC ist einer Tochtergesellschaft der Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.</p>
@@ -306,7 +292,7 @@ class legal_v1_german extends gen_class {
 
 <p>Die von YouTube veröffentlichten Datenschutzbestimmungen, die unter https://www.google.de/intl/de/policies/privacy/ abrufbar sind, geben Aufschluss über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten durch YouTube und Google.</p>
 
-<h3>19. Zahlungsart: Datenschutzbestimmungen zu PayPal als Zahlungsart</h3>
+<h3>17. Zahlungsart: Datenschutzbestimmungen zu PayPal als Zahlungsart</h3>
 <p>Der für die Verarbeitung Verantwortliche hat auf dieser Internetseite Komponenten von PayPal integriert. PayPal ist ein Online-Zahlungsdienstleister. Zahlungen werden über sogenannte PayPal-Konten abgewickelt, die virtuelle Privat- oder Geschäftskonten darstellen. Zudem besteht bei PayPal die Möglichkeit, virtuelle Zahlungen über Kreditkarten abzuwickeln, wenn ein Nutzer kein PayPal-Konto unterhält. Ein PayPal-Konto wird über eine E-Mail-Adresse geführt, weshalb es keine klassische Kontonummer gibt. PayPal ermöglicht es, Online-Zahlungen an Dritte auszulösen oder auch Zahlungen zu empfangen. PayPal übernimmt ferner Treuhänderfunktionen und bietet Käuferschutzdienste an.</p>
 
 <p>Die Europäische Betreibergesellschaft von PayPal ist die PayPal (Europe) S.à.r.l. & Cie. S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxemburg.</p>
@@ -323,9 +309,28 @@ class legal_v1_german extends gen_class {
 
 <p>Die geltenden Datenschutzbestimmungen von PayPal können unter https://www.paypal.com/de/webapps/mpp/ua/privacy-full abgerufen werden.</p>
 
-<h3>20. Avatarbilder von Gravatar</h3>
+<h3>18. Avatarbilder von Gravatar</h3>
 <p>Auf dieser Website kann für die Anzeige von Nutzerbildern der externe Avatar-Dienst Gravatar verwendet werden, welcher von der Automattic, Inc. 132 Hawthorne Street San Francisco, CA 94107, USA, betrieben wird.&nbsp;Die bei der Registrierung angegebene E-Mail-Adresse wird an Gravatar übertragen, um ein eventuell mit dieser E-Mail-Adresse verknüpftes Nutzerbild&nbsp;innerhalb der Webseite anzuzeigen. Die E-Mail-Adresse wird dabei verschlüsselt an die Server von Gravatar übertragen, welche ihrerseits die Benutzerbilder an unsere Webseite ausliefern und in unsere Seite eingebunden werden.</p>
 <p>Durch die Anzeige der Bilder kann Gravatar die&nbsp;IP-Adresse der Nutzer speichern. Nähere Informationen zur Erhebung und Nutzung der Daten durch Gravatar finden sichin den Datenschutzhinweisen von Gravatar:&nbsp;<a href="https://automattic.com/privacy/">https://automattic.com/privacy/</a>. </p>
+
+<h3>19. Verwendung von Google reCaptcha</h3>
+<p>Zum Schutz der Formulare verwendet diese Seite den Dienst reCAPTCHA des Unternehmens Google Inc. (Google), 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA. 
+Die Abfrage dient der Unterscheidung, ob die Eingabe durch einen Menschen oder missbräuchlich durch automatisierte, maschinelle Verarbeitung erfolgt. 
+Die Abfrage schließt den Versand der IP-Adresse und ggf. weiterer von Google für den Dienst reCAPTCHA benötigter Daten an Google ein. 
+Zu diesem Zweck wird Ihre Eingabe an Google übermittelt und dort weiter verwendet. 
+Durch die Nutzung von reCaptcha erklären Sie sich damit einverstanden, dass die von Ihnen geleistete Erkennung in die Digitalisierung alter Werke einfließt. 
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. 
+Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. 
+Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung dieses Dienstes auszuwerten. 
+Die im Rahmen von reCaptcha von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. 
+Für diese Daten gelten die abweichenden Datenschutzbestimmungen des Unternehmens Google. 
+Weitere Informationen zu den Datenschutzrichtlinien von Google finden Sie unter: https://www.google.com/intl/de/policies/privacy/.
+</p>
+
+<h3>20. Verwendung von Discord</h3>
+<p>Auf dieser Website kann für die Anzeige von Nutzerbildern der externe Dienst Discord verwendet werden, welcher von der Discord Inc., 1901 S Bascom Ave. Suite 1180, Campbell, CA 95080, USA, betrieben wird.</p>
+<p>Durch die Anzeige der Bilder kann Discord die IP-Adresse der Nutzer speichern. Weitere Informationen zu den Datenschutzrichtlinien von Discord finden Sie unter: https://discordapp.com/privacy</p>
+
 <h3>21. Rechtsgrundlage der Verarbeitung</h3>
 <p>Art. 6 I lit. a DS-GVO dient unserem Unternehmen als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen. Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zur unseren Produkten oder Leistungen. Unterliegt unser Unternehmen einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO. In seltenen Fällen könnte die Verarbeitung von personenbezogenen Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen. Dies wäre beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt werden würde und daraufhin sein Name, sein Alter, seine Krankenkassendaten oder sonstige lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden müssten. Dann würde die Verarbeitung auf Art. 6 I lit. d DS-GVO beruhen.
 Letztlich könnten Verarbeitungsvorgänge auf Art. 6 I lit. f DS-GVO beruhen. Auf dieser Rechtsgrundlage basieren Verarbeitungsvorgänge, die von keiner der vorgenannten Rechtsgrundlagen erfasst werden, wenn die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich ist, sofern die Interessen, Grundrechte und Grundfreiheiten des Betroffenen nicht überwiegen. Solche Verarbeitungsvorgänge sind uns insbesondere deshalb gestattet, weil sie durch den Europäischen Gesetzgeber besonders erwähnt wurden. Er vertrat insoweit die Auffassung, dass ein berechtigtes Interesse anzunehmen sein könnte, wenn die betroffene Person ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DS-GVO).

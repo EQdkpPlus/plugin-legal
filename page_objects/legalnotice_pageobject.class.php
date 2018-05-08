@@ -79,6 +79,14 @@ class legalnotice_pageobject extends pageobject {
 		if($strAdditions){
 			$strContent .= '<br /><br /><div class="legalPrivacyAdditions">'.$this->bbcode->toHTML($strAdditions).'</div>';
 		}
+		
+		//Hooks
+		if($this->hooks->isRegistered('plugin_legal_legalnotice')){
+			$arrHookEntries = $this->hooks->process('plugin_legal_legalnotice');
+			foreach($arrHookEntries as $val){
+				$strContent .= '<br /><br />'.$val;
+			}
+		}
 
 		//Replace Variables
 		$strContact = $this->config->get('contact', 'legal');

@@ -80,6 +80,14 @@ class privacypolicy_pageobject extends pageobject {
 			$strContent .= '<div class="legalPrivacyAdditions">'.$this->bbcode->toHTML($strAdditions).'</div>';
 		}
 
+		//Hooks
+		if($this->hooks->isRegistered('plugin_legal_privacypolicy')){
+			$arrHookEntries = $this->hooks->process('plugin_legal_privacypolicy');
+			foreach($arrHookEntries as $val){
+				$strContent .= '<br /><br />'.$val;
+			}
+		}
+		
 		//Replace Variables
 		$strContact = $this->config->get('contact', 'legal');
 		if($strContact) $strContact = nl2br($strContact);
