@@ -335,20 +335,24 @@ By using the reCAPTCHA service, you consent to the processing of data about you 
 <p>On this website, maps of the service "OpenStreetMap" (https://www.openstreetmap.org) are included, which are provided by the OpenStreetMap Foundation (OSMF) based on the Open Data Commons Open Database Lizenz (ODbL). Privacy policy: https://wiki.openstreetmap.org/wiki/Privacy_Policy.</p>
 <p>When showing these Maps, "OpenStreetMap" is processing data like IP addresses for showing these maps. It is not known that they are saving or processing data for other porposes.</p>
 
+<h3>22. Usage StopForumSpam</h3>
+<p>During the registration, the username and the encrypted (hashed) email address is transfered to the <a href="https://www.stopforumspam.com/contact">StopForumSpam</a> service to prevent SPAM registrations.</p>
+<p>StopForumSpam\'s data protection provisions, available at <a href="https://www.stopforumspam.com/privacy">https://www.stopforumspam.com/privacy</a>, provide information about the collection, processing and use of personal data by StopForumSpam.</p>
 
-<h3>22. Legal basis for the processing </h3>
+
+<h3>23. Legal basis for the processing </h3>
 <p>Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR.
 In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR.
 Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR).
 </p>
 
-<h3>23. The legitimate interests pursued by the controller or by a third party</h3>
+<h3>24. The legitimate interests pursued by the controller or by a third party</h3>
 <p>Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our business in favor of the well-being of all our employees and the shareholders.</p>
 
-<h3>24. Period for which the personal data will be stored</h3>
+<h3>25. Period for which the personal data will be stored</h3>
 <p>The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.</p>
 
-<h3>25. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data </h3>
+<h3>26. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data </h3>
 <p>We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner).
 
 Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded.
@@ -356,7 +360,7 @@ Sometimes it may be necessary to conclude a contract that the data subject provi
 Before personal data is provided by the data subject, the data subject must contact our Data Protection Officer. Our Data Protection Officer clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
 </p>
 
-<h3>26. Existence of automated decision-making</h3>
+<h3>27. Existence of automated decision-making</h3>
 <p>As a responsible company, we do not use automatic decision-making or profiling.</p>
 
 <p><em>This Privacy Policy has been generated by the Privacy Policy Generator of the <a href="https://dg-datenschutz.de/services/external-data-protection-officer/?lang=en" rel="nofollow">External Data Protection Officer</a> from DGD Deutsche Gesellschaft für Datenschutz GmbH, which has been developed in cooperation with <a href="https://www.wbs-law.de/" rel="nofollow">WILDE BEUGER SOLMECKE | Lawyers</a> and the RC GmbH.</em></p>
