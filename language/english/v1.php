@@ -329,7 +329,7 @@ By using the reCAPTCHA service, you consent to the processing of data about you 
 
 <h3>20. Usage of Discord</h3>
 <p>On this website, user can show profile pictures using Discord. The operating company of Discord is Discord Inc., 1901 S Bascom Ave. Suite 1180, Campbell, CA 95080, USA.</p>
-<p>When showing a Discord profile picture, Discord may save the IP address of the user. Discord\'s data protection provisions, available at https://discordapp.com/privacy, provide information about the collection, processing and use of personal data by Discord.</p>
+<p>When showing a Discord profile picture, Discord may save the IP address of the user. Discord\'s data protection provisions, available at https://discord.com/privacy, provide information about the collection, processing and use of personal data by Discord.</p>
 
 <h3>21. Usage of OpenStreetMap</h3>
 <p>On this website, maps of the service "OpenStreetMap" (https://www.openstreetmap.org) are included, which are provided by the OpenStreetMap Foundation (OSMF) based on the Open Data Commons Open Database Lizenz (ODbL). Privacy policy: https://wiki.openstreetmap.org/wiki/Privacy_Policy.</p>

@@ -329,7 +329,7 @@ Weitere Informationen zu den Datenschutzrichtlinien von Google finden Sie unter:
 
 <h3>20. Verwendung von Discord</h3>
 <p>Auf dieser Website kann für die Anzeige von Nutzerbildern der externe Dienst Discord verwendet werden, welcher von der Discord Inc., 1901 S Bascom Ave. Suite 1180, Campbell, CA 95080, USA, betrieben wird.</p>
-<p>Durch die Anzeige der Bilder kann Discord die IP-Adresse der Nutzer speichern. Weitere Informationen zu den Datenschutzrichtlinien von Discord finden Sie unter: https://discordapp.com/privacy</p>
+<p>Durch die Anzeige der Bilder kann Discord die IP-Adresse der Nutzer speichern. Weitere Informationen zu den Datenschutzrichtlinien von Discord finden Sie unter: https://discord.com/privacy</p>
 
 <h3>21. Verwendung von OpenStreetMap</h3>
 <p>Auf dieser Website werden Landkarten des Dienstes "OpenStreetMap" (https://www.openstreetmap.org) eingebunden, die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. Datenschutzerklärung: https://wiki.openstreetmap.org/wiki/Privacy_Policy.</p>

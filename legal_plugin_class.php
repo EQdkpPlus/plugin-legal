@@ -28,7 +28,7 @@ if (!defined('EQDKP_INC')){
   +--------------------------------------------------------------------------*/
 class legal extends plugin_generic {
 
-	public $version				= '1.0.5';
+	public $version				= '1.0.6';
 	public $build				= '';
 	public $copyright			= 'GodMod';
 
